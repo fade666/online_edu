@@ -74,6 +74,10 @@
             <artifactId>aliyun-sdk-vod-upload</artifactId>
             <version>1.4.11</version>
         </dependency>
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-core</artifactId>
+        </dependency>
 
     </dependencies>
 
